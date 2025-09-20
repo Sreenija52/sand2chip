@@ -50,13 +50,16 @@ $ sudo make install
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-
+![Alt text](images/Screenshot from 2025-09-19 20-08-31.png)
 
 #### <ins>gtkwave</ins>
 ```
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
+![Alt text](images/Screenshot from 2025-09-19 20-11-03.png)
+
+![Alt text](images/Screenshot from 2025-09-19 20-10-18.png)
 
 
 
