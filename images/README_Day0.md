@@ -1,4 +1,4 @@
-# RISC-V based SOC Tapeout program VSD
+
 
 ## Day 0
 ### TASK 1
