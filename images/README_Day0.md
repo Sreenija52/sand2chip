@@ -42,7 +42,7 @@ $ make config-gcc
 $ make
 $ sudo make install
 ```
-![Alt text](images/yosys_img.png)
+![Alt text](yosys_img.png)
 
 
 #### <ins>iverilog</ins>
@@ -50,16 +50,16 @@ $ sudo make install
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 ```
-![Alt text](images/iverilog_img.png)
+![Alt text](iverilog_img.png)
 
 #### <ins>gtkwave</ins>
 ```
 $ sudo apt-get update
 $ sudo apt install gtkwave
 ```
-![Alt text](images/gtkwave_img.png)
+![Alt text](gtkwave_img.png)
 
-![Alt text](images/gtkwave_gui.png)
+![Alt text](gtkwave_gui.png)
 
 
 
