@@ -42,7 +42,7 @@ $ make config-gcc
 $ make
 $ sudo make install
 ```
-![Alt text](images/screenshot.png)
+![Alt text](images/Screenshot from 2025-09-19 19-59-06.png)
 
 
 #### <ins>iverilog</ins>
