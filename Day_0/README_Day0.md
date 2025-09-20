@@ -2,7 +2,14 @@
 
 ## Day 0
 ### TASK 1
-Summary: 
+### Summary:
+We are using well known processors in our applications.Ever wondered how they are made?Here is the flow to design a processor:
+Chip modelling: The GCC comiled code output(O1) is compared with specification based c environment compilation output(O2) where O1==O2
+RTLarchitect: The O2 is compared with creating soft copy of hardware using RTL design output(O3) where O2==O3
+Synthesis: The O3 is compared with synthesisable gate level netlist,macros and analog IP generates output(O4) where O3==O4
+RTL-GDSII: The step where the soft copy hardware is converted into physical layout which gives netlist (O5), O4==O5
+Tapeout: The generated GDSII file is then verified and checked using DRC and LVS(Physical Verification) O5==O6
+
 
 ### TASK 2
 ### <ins>Ubuntu setup and Tools Installation</ins>
